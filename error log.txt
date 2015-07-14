@@ -1,0 +1,21 @@
+2014-02-22  07:08:44  sub GetMachineWorkbookData, Exception from HRESULT: 0x800A03EC
+2014-02-22  07:17:16  sub GetMachineWorkbookData, Cannot rename a sheet to the same name as another sheet, a referenced object library or a workbook referenced by Visual Basic.
+2014-02-22  07:17:55  sub GetMachineWorkbookData, Cannot rename a sheet to the same name as another sheet, a referenced object library or a workbook referenced by Visual Basic.
+2014-02-22  07:19:05  sub GetMachineWorkbookData, Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+2014-02-22  07:19:05  sub cmdGetMachineData_Click, Object reference not set to an instance of an object.
+2014-02-22  07:20:42  sub GetMachineWorkbookData, Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+2014-02-22  07:20:42  sub cmdGetMachineData_Click, Object reference not set to an instance of an object.
+2014-02-22  11:44:40  sub GetMachineWorkbookData, Index was outside the bounds of the array.
+2014-02-22  12:05:01  sub GetMachineWorkbookData, Value of '102' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+2014-02-22  18:01:12  sub GetMachineWorkbookData, Public member 'ShapeRange' on type 'Comment' not found.
+2014-02-22  18:21:27  sub GetMachineWorkbookData, Public member 'selection' on type 'Range' not found.
+2014-02-22  18:45:27  sub GetMachineWorkbookData, Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+2014-02-22  18:46:32  sub GetMachineWorkbookData, Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+2014-02-22  18:51:41  sub GetMachineWorkbookData, Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL))
+2014-02-24  13:38:38  frmAssemblyTreeData, sub mnuCopyToClipboard_Click, Object reference not set to an instance of an object.
+2014-02-24  14:11:21  sub mnuOpenExcelfile_Click, Excel cannot access 'AssemblyTreeBuddy'.  The document may be read-only or encrypted.
+2014-02-24  14:12:07  sub mnuOpenExcelfile_Click, Excel cannot access 'AssemblyTreeBuddy'.  The document may be read-only or encrypted.
+2014-02-24  14:19:00  sub mnuExportToWorksheet_Click, Excel cannot access 'AssemblyTreeBuddy'.  The document may be read-only or encrypted.
+2014-02-24  14:25:08  frmAssemblyTreeData, sub mnuCopyToClipboard_Click, Object reference not set to an instance of an object.
+2014-02-24  14:25:17  frmAssemblyTreeData, sub mnuCopyToClipboard_Click, Object reference not set to an instance of an object.
